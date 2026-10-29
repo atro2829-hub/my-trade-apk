@@ -1,0 +1,6 @@
+{
+  "name": "SMC Lab",
+  "description": "مختبر تعليمي وتدريبي لمفاهيم الأموال الذكية (Smart Money Concepts) عبر شارت تفاعلي، تمارين حتمية، محاكاة تداول افتراضية، ومدرب متكيف.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

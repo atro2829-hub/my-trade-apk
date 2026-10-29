@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SMC Lab</string>
+    <string name="tab_curriculum_ar">المنهج والمدرب</string>
+    <string name="tab_curriculum_en">Curriculum &amp; Coach</string>
+    <string name="tab_chart_ar">الشارت والتحدي</string>
+    <string name="tab_chart_en">Chart &amp; Challenge</string>
+    <string name="tab_simulation_ar">المحاكاة الورقية</string>
+    <string name="tab_simulation_en">Paper Simulation</string>
+    <string name="tab_glossary_ar">القاموس</string>
+    <string name="tab_glossary_en">Glossary</string>
+    <string name="tab_packs_ar">الحزم والنسخ</string>
+    <string name="tab_packs_en">Packs &amp; Backup</string>
+    <string name="chart_canvas_desc">Interactive OHLC Candlestick Chart</string>
+    <string name="lang_toggle_desc">Toggle Language RTL/LTR</string>
+</resources>

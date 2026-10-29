@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive architectural and implementation plan for SMC Lab (Smart Money Concepts Interactive Lab) across Phases 0 to 6 using Native Android (Kotlin, Jetpack Compose, Room SQLite, and Compose Canvas), covering interactive OHLC charting, anti-lookahead playhead, SMC rule predicates, deterministic adaptive coach, paper trade simulation, bilingual curriculum/scenarios, Ed25519/SHA-256 content pack verification, and automated unit/Robolectric tests.",
+  "updatedAt":  "2026-10-29T02:12:29.613908484Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

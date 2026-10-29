@@ -1,0 +1,2 @@
+a85d7a4bf6c0b1091b54c22df3ba2f933431d9401be971f2667cb51ebc7055b0  releases/SMC_Lab_v1.0.0_release_signed.apk
+e99d396fa8eeb757341636001383f396b75ed15d87157aa9220b5e2ff56c12a3  releases/SMC_Lab_v1.0.0_release_signed.aab
